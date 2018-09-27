@@ -1,0 +1,14 @@
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\obj\Debug\DataDumpDemo.csprojResolveAssemblyReference.cache
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\obj\Debug\DataDumpDemo.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\DataDumpDemo.exe.config
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\DataDumpDemo.exe
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\DataDumpDemo.pdb
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\AerospikeClient.dll
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\Neo.Lua.dll
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\AerospikeClient.xml
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\Neo.Lua.pdb
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\Neo.Lua.xml
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\obj\Debug\DataDumpDemo.exe
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\obj\Debug\DataDumpDemo.pdb
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\CsvHelper.dll
+C:\Users\pvashisht\source\repos\DataDumpDemo\DataDumpDemo\bin\Debug\CsvHelper.xml
